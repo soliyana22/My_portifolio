@@ -1,0 +1,31 @@
+.links{ 
+    display:flex;
+    color: white;
+    justify-content: center;
+    gap:20px; 
+    font-size: 20px;;
+    list-style: none;
+}
+header{
+    margin:0px 10px 10px 0px;
+    border:none;
+    color:white;
+    background: rgb(80, 13, 13);
+    height:60px;
+}
+footer{
+    margin-top:140px;
+    border:none;
+    color:white;
+    background: rgb(80, 13, 13);
+    height:80px;
+}
+.footer__copyright {
+    text-align: center;
+    font-size: 3vh;
+    padding: 1em;
+    color: white;
+    margin-top:100px;
+
+    
+}
